@@ -1,2 +1,2 @@
-# blog-automation-pipeline
-Modular system for cleaning blog titles, generating content in Canva, posting to GitHub, WordPress, and social platforms
+# Blog Automation Pipeline
+Modular Python system to clean titles, generate blog content in Canva, post it to GitHub, WordPress, and social media.
