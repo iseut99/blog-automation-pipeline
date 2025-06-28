@@ -1,0 +1,2 @@
+requirements.txt
+	•	This will list all the Python libraries your pipeline uses (e.g., openai, pandas, gspread, PyGithub, etc.)
